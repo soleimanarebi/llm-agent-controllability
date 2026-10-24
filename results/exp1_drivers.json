@@ -1,0 +1,142 @@
+{
+ "rows": [
+  {
+   "graph": "broadcast star",
+   "n": 64,
+   "edges": 63,
+   "nd_no_memory": 63,
+   "nd_memory": 1,
+   "nd_exact_identical": 63
+  },
+  {
+   "graph": "orchestrator star",
+   "n": 64,
+   "edges": 126,
+   "nd_no_memory": 62,
+   "nd_memory": 1,
+   "nd_exact_identical": 62
+  },
+  {
+   "graph": "delegation tree",
+   "n": 40,
+   "edges": 39,
+   "nd_no_memory": 27,
+   "nd_memory": 1,
+   "nd_exact_identical": 27
+  },
+  {
+   "graph": "parallel pipelines",
+   "n": 64,
+   "edges": 56,
+   "nd_no_memory": 8,
+   "nd_memory": 8,
+   "nd_exact_identical": 8
+  },
+  {
+   "graph": "ring (debate)",
+   "n": 64,
+   "edges": 384,
+   "nd_no_memory": 1,
+   "nd_memory": 1,
+   "nd_exact_identical": 4
+  },
+  {
+   "graph": "small-world (debate)",
+   "n": 64,
+   "edges": 384,
+   "nd_no_memory": 1,
+   "nd_memory": 1,
+   "nd_exact_identical": 1
+  },
+  {
+   "graph": "random (debate)",
+   "n": 64,
+   "edges": 384,
+   "nd_no_memory": 1,
+   "nd_memory": 1,
+   "nd_exact_identical": 1
+  },
+  {
+   "graph": "scale-free (debate)",
+   "n": 64,
+   "edges": 366,
+   "nd_no_memory": 1,
+   "nd_memory": 1,
+   "nd_exact_identical": 1
+  }
+ ],
+ "exact_over_seeds": {
+  "ring": [
+   4,
+   4,
+   4,
+   4,
+   4,
+   4,
+   4,
+   4,
+   4,
+   4
+  ],
+  "small-world": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "random": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "scale-free": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "star": [
+   62,
+   62,
+   62,
+   62,
+   62,
+   62,
+   62,
+   62,
+   62,
+   62
+  ],
+  "complete": [
+   63,
+   63,
+   63,
+   63,
+   63,
+   63,
+   63,
+   63,
+   63,
+   63
+  ]
+ }
+}

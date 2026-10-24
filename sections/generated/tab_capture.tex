@@ -1,0 +1,28 @@
+\begin{tabular}{llrrrrr}
+\toprule
+ & & & \multicolumn{3}{c}{Honest agents captured, worst case (\%)} & \\
+\cmidrule(lr){4-6}
+Topology & Placement & $f$ & Theorem~\ref{thm:capture} & linear sim. & bounded, $\delta=6$ & $\max_i h_i$ \\
+\midrule
+random & degree & 1 & 0.8 & 0.8 & 0.8 & 0.44 \\
+ & spectral-greedy & 1 & 1.2 & 1.2 & 1.2 & 0.58 \\
+ & resilient-greedy & 1 & 0.0 & 0.0 & 0.0 & 0.27 \\
+ & degree & 2 & 2.0 & 2.0 & 2.0 & 0.57 \\
+ & spectral-greedy & 2 & 2.0 & 2.0 & 2.4 & 0.60 \\
+ & resilient-greedy & 2 & 2.4 & 2.4 & 2.4 & 0.53 \\
+\addlinespace
+small-world & degree & 1 & 0.0 & 0.0 & 0.0 & 0.33 \\
+ & spectral-greedy & 1 & 0.4 & 0.4 & 0.0 & 0.41 \\
+ & resilient-greedy & 1 & 0.0 & 0.0 & 0.0 & 0.36 \\
+ & degree & 2 & 11.7 & 11.7 & 10.5 & 0.65 \\
+ & spectral-greedy & 2 & 17.3 & 17.3 & 11.3 & 0.59 \\
+ & resilient-greedy & 2 & 17.7 & 17.7 & 10.5 & 0.60 \\
+\addlinespace
+scale-free & degree & 1 & 0.0 & 0.0 & 0.0 & 0.26 \\
+ & spectral-greedy & 1 & 0.0 & 0.0 & 0.0 & 0.25 \\
+ & resilient-greedy & 1 & 0.0 & 0.0 & 0.0 & 0.25 \\
+ & degree & 2 & 3.2 & 3.2 & 4.8 & 0.54 \\
+ & spectral-greedy & 2 & 2.8 & 2.8 & 4.0 & 0.51 \\
+ & resilient-greedy & 2 & 2.8 & 2.8 & 4.0 & 0.51 \\
+\bottomrule
+\end{tabular}

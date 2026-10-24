@@ -1,0 +1,3242 @@
+[
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 13,
+  "k_sim": 13
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 13,
+  "k_sim": 13
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 13,
+  "k_sim": 39
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 14,
+  "k_sim": 14
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 14,
+  "k_sim": 15
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 14,
+  "k_sim": 40
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 15,
+  "k_sim": 15
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 15,
+  "k_sim": 16
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 15,
+  "k_sim": 39
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 13,
+  "k_sim": 13
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 13,
+  "k_sim": 14
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 13,
+  "k_sim": 40
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 15,
+  "k_sim": 14
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 15,
+  "k_sim": 16
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 15,
+  "k_sim": 40
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 15,
+  "k_sim": 15
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 15,
+  "k_sim": 17
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 15,
+  "k_sim": 40
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 13,
+  "k_sim": 12
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 13,
+  "k_sim": 13
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 13,
+  "k_sim": 38
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 15,
+  "k_sim": 14
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 15,
+  "k_sim": 15
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 15,
+  "k_sim": 38
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 16,
+  "k_sim": 15
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 16,
+  "k_sim": 16
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 16,
+  "k_sim": 38
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "random",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 35,
+  "k_sim": 27
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 35,
+  "k_sim": 32
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 35,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 55,
+  "k_sim": 33
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 55,
+  "k_sim": 55
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 55,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 47,
+  "k_sim": 34
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 47,
+  "k_sim": 47
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 47,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 80,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 80,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 80,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 80,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 80,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 80,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 80,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 80,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 80,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 31,
+  "k_sim": 27
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 31,
+  "k_sim": 30
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 31,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 39,
+  "k_sim": 30
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 39,
+  "k_sim": 34
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 39,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 47,
+  "k_sim": 33
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 47,
+  "k_sim": 39
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 47,
+  "k_sim": 80
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 19,
+  "k_sim": 19
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 19,
+  "k_sim": 19
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 19,
+  "k_sim": 20
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 20,
+  "k_sim": 19
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 20,
+  "k_sim": 19
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 20,
+  "k_sim": 20
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 20,
+  "k_sim": 19
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 20,
+  "k_sim": 20
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 20,
+  "k_sim": 21
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 20,
+  "k_sim": 19
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 20,
+  "k_sim": 20
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 20,
+  "k_sim": 23
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 20,
+  "k_sim": 20
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 20,
+  "k_sim": 20
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 20,
+  "k_sim": 23
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 21,
+  "k_sim": 20
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 21,
+  "k_sim": 21
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 21,
+  "k_sim": 24
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 20,
+  "k_sim": 19
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 20,
+  "k_sim": 19
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 20,
+  "k_sim": 21
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 20,
+  "k_sim": 19
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 20,
+  "k_sim": 20
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 20,
+  "k_sim": 21
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 20,
+  "k_sim": 20
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 20,
+  "k_sim": 20
+ },
+ {
+  "kind": "random",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 20,
+  "k_sim": 22
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 16,
+  "k_sim": 14
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 16,
+  "k_sim": 17
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 16,
+  "k_sim": 20
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 18,
+  "k_sim": 17
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 18,
+  "k_sim": 18
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 18,
+  "k_sim": 22
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 25,
+  "k_sim": 23
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 25,
+  "k_sim": 25
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 25,
+  "k_sim": 28
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 16,
+  "k_sim": 14
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 16,
+  "k_sim": 16
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 16,
+  "k_sim": 20
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 20,
+  "k_sim": 20
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 20,
+  "k_sim": 20
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 20,
+  "k_sim": 23
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 22,
+  "k_sim": 20
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 22,
+  "k_sim": 21
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 22,
+  "k_sim": 28
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 16,
+  "k_sim": 15
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 16,
+  "k_sim": 16
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 16,
+  "k_sim": 25
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 27,
+  "k_sim": 19
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 27,
+  "k_sim": 27
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 27,
+  "k_sim": 29
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 28,
+  "k_sim": 27
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 28,
+  "k_sim": 28
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 28,
+  "k_sim": 33
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 11,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 11,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 11,
+  "k_sim": 11
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 11,
+  "k_sim": 11
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 11,
+  "k_sim": 11
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 11,
+  "k_sim": 12
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 11,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 11,
+  "k_sim": 11
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 11,
+  "k_sim": 12
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 11,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 11,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 11,
+  "k_sim": 11
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 11,
+  "k_sim": 11
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 11,
+  "k_sim": 11
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 11,
+  "k_sim": 12
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "small-world",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 39,
+  "k_sim": 30
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 39,
+  "k_sim": 33
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 39,
+  "k_sim": 41
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 61,
+  "k_sim": 52
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 61,
+  "k_sim": 60
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 61,
+  "k_sim": 61
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 59,
+  "k_sim": 49
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 59,
+  "k_sim": 59
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 59,
+  "k_sim": 70
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 34,
+  "k_sim": 30
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 34,
+  "k_sim": 33
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 34,
+  "k_sim": 55
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 53,
+  "k_sim": 39
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 53,
+  "k_sim": 49
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 53,
+  "k_sim": 59
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 54,
+  "k_sim": 51
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 54,
+  "k_sim": 54
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 54,
+  "k_sim": 69
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 35,
+  "k_sim": 29
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 35,
+  "k_sim": 31
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 35,
+  "k_sim": 38
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 52,
+  "k_sim": 42
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 52,
+  "k_sim": 43
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 52,
+  "k_sim": 58
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 65,
+  "k_sim": 63
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 65,
+  "k_sim": 64
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 65,
+  "k_sim": 67
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 21,
+  "k_sim": 20
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 21,
+  "k_sim": 21
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 21,
+  "k_sim": 22
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 22,
+  "k_sim": 21
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 22,
+  "k_sim": 21
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 22,
+  "k_sim": 24
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 24,
+  "k_sim": 23
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 24,
+  "k_sim": 24
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 24,
+  "k_sim": 30
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 21,
+  "k_sim": 20
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 21,
+  "k_sim": 21
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 21,
+  "k_sim": 23
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 21,
+  "k_sim": 20
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 21,
+  "k_sim": 21
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 21,
+  "k_sim": 22
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 30,
+  "k_sim": 29
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 30,
+  "k_sim": 30
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 30,
+  "k_sim": 36
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 21,
+  "k_sim": 20
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 21,
+  "k_sim": 21
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 21,
+  "k_sim": 22
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 21,
+  "k_sim": 20
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 21,
+  "k_sim": 21
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 21,
+  "k_sim": 22
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 33,
+  "k_sim": 30
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 33,
+  "k_sim": 33
+ },
+ {
+  "kind": "small-world",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 33,
+  "k_sim": 35
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 14,
+  "k_sim": 13
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 14,
+  "k_sim": 14
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 14,
+  "k_sim": 36
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 14,
+  "k_sim": 13
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 14,
+  "k_sim": 15
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 14,
+  "k_sim": 32
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 14,
+  "k_sim": 14
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 14,
+  "k_sim": 14
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 14,
+  "k_sim": 35
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 18,
+  "k_sim": 13
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 18,
+  "k_sim": 18
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 18,
+  "k_sim": 40
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 14,
+  "k_sim": 14
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 14,
+  "k_sim": 18
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 14,
+  "k_sim": 39
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 16,
+  "k_sim": 13
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 16,
+  "k_sim": 19
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 16,
+  "k_sim": 40
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 13,
+  "k_sim": 13
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 13,
+  "k_sim": 14
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 13,
+  "k_sim": 36
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 14,
+  "k_sim": 13
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 14,
+  "k_sim": 15
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 14,
+  "k_sim": 40
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 13,
+  "k_sim": 13
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 13,
+  "k_sim": 15
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 13,
+  "k_sim": 40
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 12
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 12
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 12
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": 11
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 39
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": 11
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 40
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": 11
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 40
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": 10,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": 10,
+  "k_sim": 11
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": 11,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": 11,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": 11,
+  "k_sim": 12
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": 11,
+  "k_sim": 10
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": 11,
+  "k_sim": 11
+ },
+ {
+  "kind": "scale-free",
+  "n": 40,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": 11,
+  "k_sim": 12
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": 29
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 52
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": 31
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 64
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": 33
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 65
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 80
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 78
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 77
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": 26
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": 28
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 75
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": 29
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": 31
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 64
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": 31
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": 33
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 8,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 68
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 22
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 22
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 0,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 22
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 80
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 80
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 1,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 80
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "betweenness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 21
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "closeness",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 21
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 0.5,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 2.0,
+  "k_lin": null,
+  "k_sim": null
+ },
+ {
+  "kind": "scale-free",
+  "n": 80,
+  "d": 16,
+  "seed": 2,
+  "rule": "eigenvector",
+  "sigma": 4.0,
+  "k_lin": null,
+  "k_sim": 22
+ }
+]

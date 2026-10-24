@@ -1,0 +1,20 @@
+\begin{tabular}{llrrrr}
+\toprule
+Topology & Criterion & $\bar d=4$ & $\bar d=8$ & $\bar d=12$ & $\bar d=16$ \\
+\midrule
+random & betweenness & 100 & 50 & 27 & 25 \\
+ & closeness & 100 & 59 & 28 & 25 \\
+ & eigenvector & 100 & 60 & 29 & 25 \\
+ & spectral-greedy & 56 & 32 & 26 & 24 \\
+\addlinespace
+small-world & betweenness & 85 & 42 & 30 & 26 \\
+ & closeness & 94 & 64 & 37 & 27 \\
+ & eigenvector & 94 & 77 & 50 & 36 \\
+ & spectral-greedy & 51 & 32 & 26 & 24 \\
+\addlinespace
+scale-free & betweenness & 77 & 35$^{1/5}$ & -- & -- \\
+ & closeness & 88 & 36$^{1/5}$ & -- & -- \\
+ & eigenvector & 92 & 35$^{1/5}$ & -- & -- \\
+ & spectral-greedy & 59 & 31$^{1/5}$ & 28$^{2/5}$ & -- \\
+\bottomrule
+\end{tabular}
